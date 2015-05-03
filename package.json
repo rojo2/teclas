@@ -1,0 +1,24 @@
+{
+  "name": "teclas",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [
+    "keys",
+    "keyboard"
+  ],
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ROJO 2 <hola@rojo2.com> (http://rojo2.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4",
+    "mocha-phantomjs": "^3.5.3",
+    "phantomjs": "^1.9.16"
+  }
+}
