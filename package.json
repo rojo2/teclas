@@ -13,6 +13,14 @@
   "scripts": {
     "test": "mocha"
   },
+  "contributors": [
+    {
+      "name": "Aitor Moreno",
+      "email": "aitor@rojo2.com",
+      "url": "http://rojo2.com",
+      "hireable": true
+    }
+  ],
   "author": "ROJO 2 <hola@rojo2.com> (http://rojo2.com)",
   "license": "MIT",
   "devDependencies": {
